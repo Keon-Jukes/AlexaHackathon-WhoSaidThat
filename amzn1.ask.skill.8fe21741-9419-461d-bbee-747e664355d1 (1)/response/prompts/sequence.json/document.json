@@ -1,0 +1,1 @@
+{"type":"APLA","version":"0.91","mainTemplate":{"parameters":["payload"],"item":{"type":"Sequencer","description":"This sample plays a series of audio clips one after another.","items":[{"type":"audio","content":"${payload.speechsource}"},{"type":"Silence","duration":500},{"type":"Speech","content":"${payload.speechsource}"}]}}}

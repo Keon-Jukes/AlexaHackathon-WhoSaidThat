@@ -1,0 +1,226 @@
+{
+  "manifest": {
+    "publishingInformation": {
+      "locales": {
+        "en-US": {
+          "summary": "Guess who said which quote",
+          "examplePhrases": [
+            "Alexa open who said that",
+            "Alexa, launch who said that",
+            "help"
+          ],
+          "keywords": [
+            "who",
+            "said",
+            "that",
+            "quote",
+            "quotes",
+            "trivia",
+            "game",
+            "trivia",
+            "game",
+            "historical",
+            "quotes",
+            "memory",
+            "game",
+            "intelligence",
+            "test"
+          ],
+          "name": "who said that",
+          "description": "Who said that  is a game which seeks to test how well you know famous quotes from history and who said them. You are given a quote to listen to and then are asked which person out of three options said the quote. As you get more questions correct, you advance and win rounds plus unlock new rounds!",
+          "smallIconUri": "file://assets/images/en-US_smallIconUri.png",
+          "updatesDescription": "Who said that now offers a brand new Presidential Round One for users to play. This presidential round one provides users with quotes from past presidents and ask them to guess who said them.",
+          "largeIconUri": "file://assets/images/en-US_largeIconUri.png"
+        },
+        "en-CA": {
+          "summary": "Guess who said which quote",
+          "examplePhrases": [
+            "Alexa open who said that",
+            "Alexa, launch who said that",
+            "help"
+          ],
+          "keywords": [
+            "who",
+            "said",
+            "that",
+            "quote",
+            "quotes",
+            "trivia",
+            "game",
+            "trivia",
+            "game",
+            "historical",
+            "quotes",
+            "memory",
+            "game",
+            "intelligence",
+            "test"
+          ],
+          "name": "who said that",
+          "description": "Who said that  is a game which seeks to test how well you know famous quotes from history and who said them. You are given a quote to listen to and then are asked which person out of three options said the quote. As you get more questions correct, you advance and win rounds plus unlock new rounds!",
+          "smallIconUri": "file://assets/images/en-CA_smallIconUri.png",
+          "updatesDescription": "Who said that now offers a brand new Presidential Round One for users to play. This presidential round one provides users with quotes from past presidents and ask them to guess who said them.",
+          "largeIconUri": "file://assets/images/en-CA_largeIconUri.png"
+        },
+        "en-IN": {
+          "summary": "Guess who said which quote",
+          "examplePhrases": [
+            "Alexa open who said that",
+            "Alexa, launch who said that",
+            "help"
+          ],
+          "keywords": [
+            "who",
+            "said",
+            "that",
+            "quote",
+            "quotes",
+            "trivia",
+            "game",
+            "trivia",
+            "game",
+            "historical",
+            "quotes",
+            "memory",
+            "game",
+            "intelligence",
+            "test"
+          ],
+          "name": "who said that",
+          "description": "Who said that  is a game which seeks to test how well you know famous quotes from history and who said them. You are given a quote to listen to and then are asked which person out of three options said the quote. As you get more questions correct, you advance and win rounds plus unlock new rounds!",
+          "smallIconUri": "file://assets/images/en-IN_smallIconUri.png",
+          "updatesDescription": "Who said that now offers a brand new Presidential Round One for users to play. This presidential round one provides users with quotes from past presidents and ask them to guess who said them.",
+          "largeIconUri": "file://assets/images/en-IN_largeIconUri.png"
+        },
+        "en-AU": {
+          "summary": "Guess who said which quote",
+          "examplePhrases": [
+            "Alexa open who said that",
+            "Alexa, launch who said that",
+            "help"
+          ],
+          "keywords": [
+            "who",
+            "said",
+            "that",
+            "quote",
+            "quotes",
+            "trivia",
+            "game",
+            "trivia",
+            "game",
+            "historical",
+            "quotes",
+            "memory",
+            "game",
+            "intelligence",
+            "test"
+          ],
+          "name": "who said that",
+          "description": "Who said that  is a game which seeks to test how well you know famous quotes from history and who said them. You are given a quote to listen to and then are asked which person out of three options said the quote. As you get more questions correct, you advance and win rounds plus unlock new rounds!",
+          "smallIconUri": "file://assets/images/en-AU_smallIconUri.png",
+          "updatesDescription": "Who said that now offers a brand new Presidential Round One for users to play. This presidential round one provides users with quotes from past presidents and ask them to guess who said them.",
+          "largeIconUri": "file://assets/images/en-AU_largeIconUri.png"
+        },
+        "en-GB": {
+          "summary": "Guess who said which quote",
+          "examplePhrases": [
+            "Alexa open who said that",
+            "Alexa, launch who said that",
+            "help"
+          ],
+          "keywords": [
+            "who",
+            "said",
+            "that",
+            "quote",
+            "quotes",
+            "trivia",
+            "game",
+            "trivia",
+            "game",
+            "historical",
+            "quotes",
+            "memory",
+            "game",
+            "intelligence",
+            "test"
+          ],
+          "name": "who said that",
+          "description": "Who said that  is a game which seeks to test how well you know famous quotes from history and who said them. You are given a quote to listen to and then are asked which person out of three options said the quote. As you get more questions correct, you advance and win rounds plus unlock new rounds!",
+          "smallIconUri": "file://assets/images/en-GB_smallIconUri.png",
+          "updatesDescription": "Who said that now offers a brand new Presidential Round One for users to play. This presidential round one provides users with quotes from past presidents and ask them to guess who said them.",
+          "largeIconUri": "file://assets/images/en-GB_largeIconUri.png"
+        }
+      },
+      "automaticDistribution": {
+        "isActive": false
+      },
+      "isAvailableWorldwide": true,
+      "testingInstructions": "To use this skill say, \"Alexa, launch who said that\" and your new session should begin! Upon launching, Alexa will walk you through how to play the game and keep you updated on your progress.",
+      "category": "QUIZZES",
+      "distributionMode": "PUBLIC",
+      "automaticClonedLocale": {
+        "locales": [
+          {
+            "source": "en-US"
+          }
+        ]
+      },
+      "distributionCountries": []
+    },
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "uri": "arn:aws:lambda:us-east-1:028981355303:function:8fe21741-9419-461d-bbee-747e664355d1:Release_0"
+        },
+        "interfaces": [],
+        "regions": {
+          "EU": {
+            "endpoint": {
+              "uri": "arn:aws:lambda:eu-west-1:028981355303:function:8fe21741-9419-461d-bbee-747e664355d1:Release_0"
+            }
+          },
+          "NA": {
+            "endpoint": {
+              "uri": "arn:aws:lambda:us-east-1:028981355303:function:8fe21741-9419-461d-bbee-747e664355d1:Release_0"
+            }
+          },
+          "FE": {
+            "endpoint": {
+              "uri": "arn:aws:lambda:us-west-2:028981355303:function:8fe21741-9419-461d-bbee-747e664355d1:Release_0"
+            }
+          }
+        }
+      }
+    },
+    "manifestVersion": "1.0",
+    "privacyAndCompliance": {
+      "allowsPurchases": false,
+      "locales": {
+        "en-US": {
+          "privacyPolicyUrl": "https://docs.google.com/document/d/1ZKuXn1-V5CaERN88zAikHL-MNnN7e3pEvFvQ8uj1uwI/edit?usp\u003dsharing"
+        },
+        "en-CA": {
+          "privacyPolicyUrl": "https://docs.google.com/document/d/1ZKuXn1-V5CaERN88zAikHL-MNnN7e3pEvFvQ8uj1uwI/edit?usp\u003dsharing"
+        },
+        "en-IN": {
+          "privacyPolicyUrl": "https://docs.google.com/document/d/1ZKuXn1-V5CaERN88zAikHL-MNnN7e3pEvFvQ8uj1uwI/edit?usp\u003dsharing"
+        },
+        "en-AU": {
+          "privacyPolicyUrl": "https://docs.google.com/document/d/1ZKuXn1-V5CaERN88zAikHL-MNnN7e3pEvFvQ8uj1uwI/edit?usp\u003dsharing"
+        },
+        "en-GB": {
+          "privacyPolicyUrl": "https://docs.google.com/document/d/1ZKuXn1-V5CaERN88zAikHL-MNnN7e3pEvFvQ8uj1uwI/edit?usp\u003dsharing"
+        }
+      },
+      "containsAds": false,
+      "isExportCompliant": true,
+      "isChildDirected": false,
+      "shoppingKit": {
+        "isShoppingActionsEnabled": false
+      },
+      "usesPersonalInfo": true
+    }
+  }
+}
