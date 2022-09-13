@@ -1,0 +1,12 @@
+[
+  {"id":1, "firstname" : "nelson", "correctauthor":"nelson mandela", "quote":"The greatest glory in living lies not in never falling, but in rising every time we fall", "optionone": "Dr Martin Luther King", "optiontwo": "Marcus Garvey"},
+  {"id":2, "firstname" : "walt", "correctauthor":"walt disney", "quote":"The way to get started is to quit talking and begin doing", "optionone": "Ralph Waldo Emerson", "optiontwo": "Carl Jung"},
+  {"id":3, "firstname" : "eleanor", "correctauthor":"eleanor roosevelt", "quote":"If life were predictable it would cease to be life, and be without flavor", "optionone": "friedrich nietzsche", "optiontwo": "Kanye West"},
+  {"id":4, "firstname" : "john", "correctauthor":"john lennon", "quote":"Life is what happens when you're busy making other plans", "optionone": "George Washington", "optiontwo": "seneca"},
+  {"id":5, "firstname" : "franklin", "correctauthor":"franklin d roosevelt", "quote":"When you reach the end of your rope, tie a knot in it and hang on", "optionone": "Thomas Jefferson", "optiontwo": "Frank Sinatra"},
+  {"id":6, "firstname" : "benjamin", "correctauthor":"benjamin franklin", "quote":"Tell me and I forget. Teach me and I remember. Involve me and I learn", "optionone": "arnold schwarzenegger", "optiontwo": "Confucius"},
+  {"id":7, "firstname" : "aristotle", "correctauthor":"aristotle", "quote":"It is during our darkest moments that we must focus to see the light", "optionone": "René Descartes", "optiontwo": "Jay Z"},
+  {"id":8, "firstname" : "ralph", "correctauthor":"ralph waldo emerson", "quote":"Do not go where the path may lead, go instead where there is no path and leave a trail", "optionone": "Peter Thiel", "optiontwo": "Walt Disney"},
+  {"id":9,"firstname" : "robert", "correctauthor":"robert louis stevenson", "quote":"Don't judge each day by the harvest you reap but by the seeds that you plant", "optionone": "Karl Marx", "optiontwo": "Lao-Tzu"},
+  {"id":10, "firstname" : "abraham", "correctauthor":"abraham lincoln", "quote":"In the end, it's not the years in your life that count. It's the life in your years", "optionone": "Socrates", "optiontwo": "George Washington"}
+]

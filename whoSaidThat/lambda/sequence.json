@@ -1,0 +1,39 @@
+{
+        "type": "APLA",
+        "version": "0.91",
+        "mainTemplate": {
+            "parameters": [
+                "payload"
+            ],
+            "item": {
+                "type": "Sequencer",
+                "description": "This sample mixes text-to-speech (TTS) with a background audio clip. Filters are used to fade in the audio and lower the volume.",
+                "items": [
+                     {
+                        "type": "Audio",
+                        "source": "${payload.soundsource}",
+                        "filters": [
+                            {
+                                "type": "Volume",
+                                "amount": "80%"
+                            },
+                            {
+                                "type": "FadeIn",
+                                "duration": 1000
+                            }
+                        ]
+                    },
+                    {
+                    "type": "Silence",
+                    "duration": 500
+                    },
+                     {
+                        "type": "Speech",
+                        "content": "${payload.speechsource}"
+                    }
+                  
+                ]
+            }
+        }
+    }
+  
