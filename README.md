@@ -6,6 +6,6 @@ Configuring APLA with a ternary operator to either play a success sound or an er
 storing quotes persistently to constantly deliver a fresh new batch of quotes to the end user
 Figuring out how to adjust context with "setQuestion" & "setQuestionType" functions to make one central guessAuthor handler which can take care of a warm up question, round one question, or even the new presidential round opposed to many separate question handlers.
 ## Concepts
-APLA
-ASK Apis
+APLA, 
+Alexa APIs,
 Persistence
