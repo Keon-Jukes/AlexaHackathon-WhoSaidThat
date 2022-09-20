@@ -8,4 +8,5 @@ Figuring out how to adjust context with "setQuestion" & "setQuestionType" functi
 ## Concepts
 APLA, 
 Alexa APIs,
-Persistence
+Persistence,
+AWS S3 Bucket
