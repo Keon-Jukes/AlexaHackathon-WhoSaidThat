@@ -1,5 +1,5 @@
 # Who Said That
-My code for Amazon Alexa's "Aging &amp; Engaging: Hackathon 2022
+My code for Amazon Alexa's "Aging &amp; Engaging: Hackathon 2022!
 
 ## Milestones
 Configuring APLA with a ternary operator to either play a success sound or an error sound
